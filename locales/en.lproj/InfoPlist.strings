@@ -1,2 +1,4 @@
 CFBundleDisplayName = "Math Mage Flashcard Numbers Game";
 CFBundleName = "Math Mage Game";
+NSLocationAlwaysUsageDescription = "English Reason 1";
+NSLocationWhenInUseUsageDescription = "English Reason 2";
