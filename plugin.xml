@@ -39,27 +39,7 @@ SOFTWARE.
 
     <!-- ios -->
     <platform name="ios">	
-        <resource-file src="locales/da.lproj" />
-        <resource-file src="locales/de.lproj" />
-        <resource-file src="locales/el.lproj" />
         <resource-file src="locales/en.lproj" />
-        <resource-file src="locales/es.lproj" />
-        <resource-file src="locales/fi.lproj" />
-        <resource-file src="locales/fr.lproj" />
-        <resource-file src="locales/id.lproj" />
-        <resource-file src="locales/it.lproj" />
-        <resource-file src="locales/ja.lproj" />
-        <resource-file src="locales/ko.lproj" />
-        <resource-file src="locales/ms.lproj" />
-        <resource-file src="locales/nb.lproj" />
-        <resource-file src="locales/nl.lproj" />
-        <resource-file src="locales/pt.lproj" />
-        <resource-file src="locales/ru.lproj" />
-        <resource-file src="locales/sv.lproj" />
         <resource-file src="locales/th.lproj" />
-        <resource-file src="locales/tr.lproj" />
-        <resource-file src="locales/vi.lproj" />
-        <resource-file src="locales/zh-hant.lproj" />
-        <resource-file src="locales/zh.lproj" />
     </platform>
 </plugin>
