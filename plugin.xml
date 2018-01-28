@@ -24,15 +24,15 @@ SOFTWARE.
 -->
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-    id="cordova-plugin-private-mathmage-app-title-localization"
+    id="cordova-localization"
     version="1.0.0">
 
-    <name>cordova-plugin-private-mathmage-app-title-localization</name>
+    <name>cordova-localization</name>
 	<description>Private</description>
     <engines>
         <engine name="cordova" version=">=2.4.0" />
     </engines>
-    <repo>https://github.com/speige/cordova-plugin-private-mathmage-app-title-localization.git</repo>
+    <repo>https://github.com/spinninghamster/cordova-localization.git</repo>
 
 	<license>MIT</license>
     <keywords></keywords>
