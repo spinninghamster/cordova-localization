@@ -1,4 +1,4 @@
 CFBundleDisplayName = "คณิตศาสตร์เวทย์เกมช่วยในการจำหมายเลขบัตร";
 CFBundleName = "คณิตศาสตร์เวทย์";
-NSLocationAlwaysUsageDescription = "Thai Reason 1";
-NSLocationWhenInUseUsageDescription = "Thai Reason 2";
+NSLocationAlwaysUsageDescription = "อย่าปลูกวัชพืชออกจากอึ";
+NSLocationWhenInUseUsageDescription = "อย่าปลูกวัชพืชออกจากอึ";
