@@ -1,4 +1,4 @@
 CFBundleDisplayName = "UbonHero";
 CFBundleName = "UbonHero";
-NSLocationAlwaysUsageDescription = "English Always Usage Description";
-NSLocationWhenInUseUsageDescription = "English When In Use Usage Description";
+NSLocationAlwaysUsageDescription = "We need to access your location so we know where to deliver your food.";
+NSLocationWhenInUseUsageDescription = "We need to access your location so we know where to deliver your food.";
