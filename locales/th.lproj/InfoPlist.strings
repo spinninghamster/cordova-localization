@@ -2,3 +2,4 @@ CFBundleDisplayName = "UbonHero";
 CFBundleName = "UbonHero";
 NSLocationAlwaysUsageDescription = "อุบลฮีโร่ต้องเข้าถึงพิกัดของคุณเพื่อกำหนดตำแหน่งจัดส่งอาหาร";
 NSLocationWhenInUseUsageDescription = "อุบลฮีโร่ต้องเข้าถึงพิกัดของคุณเพื่อกำหนดตำแหน่งจัดส่งอาหาร";
+NSLocationAlwaysAndWhenInUseUsageDescription = "อุบลฮีโร่ต้องเข้าถึงพิกัดของคุณเพื่อกำหนดตำแหน่งจัดส่งอาหาร";
