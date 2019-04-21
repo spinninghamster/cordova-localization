@@ -1,5 +1,5 @@
 CFBundleDisplayName = "UbonHero";
 CFBundleName = "UbonHero";
-NSLocationAlwaysUsageDescription = "We need to access your location so we know where to deliver your food.";
-NSLocationWhenInUseUsageDescription = "We need to access your location so we know where to deliver your food.";
-NSLocationAlwaysAndWhenInUseUsageDescription = "We need to access your location so we know where to deliver your food.";
+NSLocationAlwaysUsageDescription = "We need to access your location so we know where to deliver your order.";
+NSLocationWhenInUseUsageDescription = "We need to access your location so we know where to deliver your order.";
+NSLocationAlwaysAndWhenInUseUsageDescription = "We need to access your location so we know where to deliver your order.";
